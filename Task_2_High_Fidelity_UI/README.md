@@ -37,5 +37,3 @@ https://www.figma.com/proto/2iRMijL752I3jBbFoiDuc3/Advance_Food_App?node-id=18-1
 
 
 
-https://www.figma.com/proto/XuSpbWLJjI5L265iBsjuD7/Untitled?node-id=2-2
-
