@@ -1,26 +1,18 @@
-# codealpha_tasks
-# Task 1: Wireframing & Low-Fidelity Design
+# CodeAlpha UI/UX Internship Tasks
 
-## Objective
+## Task 1: Wireframing & Low-Fidelity Design
 
-Create low-fidelity wireframes for a Food Delivery Mobile Application.
+Created low-fidelity wireframes for a Food Delivery Mobile Application.
 
-## Tool Used
+## Task 2: High-Fidelity UI Design
+
+Converted the wireframes into a high-fidelity UI design with colors, typography, icons, and images.
+
+## Tools Used
 
 * Figma
+* GitHub
 
-## Screens Included
+## Author
 
-1. Welcome Screen
-2. Sign In
-3. Sign Up
-4. Home Screen
-5. Menu Screen
-6. Cart Screen
-7. Order Summary
-8. Address Page
-9. Payment Page
-10. Success Screen
-
-## Figma Link
-https://github.com/rishikamaity239-coder/simple--food-delivery-wireframe
+Rishika Maity
